@@ -1,3 +1,3 @@
 # Web Services - MEQ 22 - Vanier
 
-This repository contains materials for Web Services (MEQ 22).
+This repository contains material for Web Services (MEQ 22).
