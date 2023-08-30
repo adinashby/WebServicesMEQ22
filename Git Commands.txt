@@ -12,5 +12,5 @@ git pull
 git push
 
 git checkout <commit id>
-*after you are done exploring 
+*after you are done exploring*
 git checkout master
